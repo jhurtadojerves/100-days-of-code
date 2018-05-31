@@ -6,7 +6,7 @@
 
 #### Fecha de inicio
 
-25 de junio de 2016. [ponga su nombre aquí]
+29 de mayo de 2018. [Julio Hurtado]
 
 ## Reglas adicionales
 
@@ -14,7 +14,7 @@
 
 2.  Si programa en el trabajo, ese tiempo no contará con respecto al reto.
 
-3.  Llevaré mi código a GitHub todos los días para que todos puedan ver mi progreso.
+3.  Llevaré mi código a GitHub casi todos los días para que todos puedan ver mi progreso.
 
 4.  Actualizaré el [registro](registro.md) con el progreso del día y proporcionaré un enlace para que otras personas puedan ver mi progreso.
 
