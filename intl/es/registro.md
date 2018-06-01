@@ -4,8 +4,16 @@
 
 **Progreso de hoy**: Agregué una nueva funcionalidad a la API de la aplicación.
 
-**Reflexiones:** Nunca antes había trabajado desarrollando APIs, basé mi trabajo en la API que construyó @ikenshu. Luego de programar esa funcionadidad he estado leyendo algo más de Django REST Framework y es bastante interesante.
+**Reflexiones**: Nunca antes había trabajado desarrollando APIs, basé mi trabajo en la API que construyó @ikenshu. Luego de programar esa funcionadidad he estado leyendo algo más de Django REST Framework y es bastante interesante.
 
-**Enlace a mi trabajo:** [Commit](https://github.com/jhurtadojerves/hechizos-hl/commit/ae89411b14c5b6c9c89cb963ae4eac9adb6b785a)
+**Enlace a mi trabajo**: [Commit](https://github.com/jhurtadojerves/hechizos-hl/commit/ae89411b14c5b6c9c89cb963ae4eac9adb6b785a)
 
-**Ejemplo del API*:** [Hechizos de Templario](https://hechizos.herokuapp.com/api/range/templario/)
+**Ejemplo del API:** [Hechizos de Templario](https://hechizos.herokuapp.com/api/range/templario/)
+
+### día 2: 30 de Mayo, 2018
+
+**Progreso del hoy:** Trabajando con JS desarrollé una funcionalidad que mejora los perfiles de usuario en un juego de rol.
+
+**Reflexiones:** Llevo poco tiempo trabajando en JS, he intentando utilizar la menor cantidad de código posible, creo que lo he logrado.
+
+**Enlace al tabajo:** [Repositorio](https://github.com/jhurtadojerves/level-information)
