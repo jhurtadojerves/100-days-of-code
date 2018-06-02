@@ -10,10 +10,22 @@
 
 **Ejemplo del API:** [Hechizos de Templario](https://hechizos.herokuapp.com/api/range/templario/)
 
+
 ### día 2: 30 de Mayo, 2018
 
 **Progreso del hoy:** Trabajando con JS desarrollé una funcionalidad que mejora los perfiles de usuario en un juego de rol.
 
 **Reflexiones:** Llevo poco tiempo trabajando en JS, he intentando utilizar la menor cantidad de código posible, creo que lo he logrado.
 
-**Enlace al tabajo:** [Repositorio](https://github.com/jhurtadojerves/level-information)
+**Enlace al trabajo:** [Repositorio](https://github.com/jhurtadojerves/level-information)
+
+
+### día 3: 1 de Junio, 2018
+
+**Progreso de hoy:** Consumo de una api con reactjs
+
+**Reflexiones:** Hay que seguir practicando. Aprendí React hace mucho tiempo pero lo dejé, jamás volví a aplicarlo en absolutamente nada. Me ha costado recordar todo, tuvo que leer mucho de mi código y documentación.
+
+**Enlace al trabajo** [Repositorio](https://github.com/jhurtadojerves/spells-react)
+
+**En funcionamiento** [Lista de Hechizos con React](https://juliohurtado.xyz/spells-react/)
