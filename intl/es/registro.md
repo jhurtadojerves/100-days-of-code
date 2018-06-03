@@ -29,3 +29,15 @@
 **Enlace al trabajo** [Repositorio](https://github.com/jhurtadojerves/spells-react)
 
 **En funcionamiento** [Lista de Hechizos con React](https://juliohurtado.xyz/spells-react/)
+
+
+
+### día 4: 2 de Junio, 2018
+
+**Progreso de hoy:** La API que estaba consumiento cambió, tuve que arreglar el consumo de esa API en react
+
+**Reflexiones:** Aunque el avance es poco, porque no se ve, he estado trabajando en paginar la página de rect. Por el momento me está costando, aunque he tenido avances importantes en la paginación.
+
+**Enlace al trabajo** [Repositorio](https://github.com/jhurtadojerves/spells-react)
+
+**En funcionamiento** [Lista de Hechizos con React](https://juliohurtado.xyz/spells-react/)
