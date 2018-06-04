@@ -52,3 +52,15 @@
 **Enlace al trabajo** [Repositorio](https://github.com/jhurtadojerves/spells-react)
 
 **En funcionamiento** [Lista de Hechizos con React](https://juliohurtado.xyz/spells-react/)
+
+
+### día 6: 4 de Junio, 2018
+
+**Progreso de hoy:** Mostrar detalle de un hechizo.
+
+**Reflexiones:** Hoy, con unos pocos componente, se lanza un popup para mostrar un detalle del hechizo de la lista. La ventana se comporta como tal. Se opaca el fondo y se previene el scroll.
+
+**Enlace al trabajo** [Repositorio](https://github.com/jhurtadojerves/spells-react)
+
+**En funcionamiento** [Lista de Hechizos con React](https://juliohurtado.xyz/spells-react/)
+
