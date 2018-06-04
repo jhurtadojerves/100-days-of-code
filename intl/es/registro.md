@@ -41,3 +41,14 @@
 **Enlace al trabajo** [Repositorio](https://github.com/jhurtadojerves/spells-react)
 
 **En funcionamiento** [Lista de Hechizos con React](https://juliohurtado.xyz/spells-react/)
+
+
+### día 5: 3 de Junio, 2018
+
+**Progreso de hoy:** Paginación con React JS consumiento una API de djangorestframework.
+
+**Reflexiones:** Me encanta redescubrir diaramente cuando mágico es REACT y en general JS. En primer entrypoint de la aplicación está terminado.
+
+**Enlace al trabajo** [Repositorio](https://github.com/jhurtadojerves/spells-react)
+
+**En funcionamiento** [Lista de Hechizos con React](https://juliohurtado.xyz/spells-react/)
